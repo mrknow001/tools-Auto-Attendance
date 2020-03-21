@@ -2,8 +2,10 @@
 tools批量自动签到脚本，可实现多账号批量自动签到。
 
 ![image](https://github.com/mrknow001/tools-Auto-Attendance/blob/master/img/text.png)
+
 录入多个账号，每行一条信息，依次是账号、密码、问题ID、回答
 问题ID参照下面图片
+
 ![image](https://github.com/mrknow001/tools-Auto-Attendance/blob/master/img/question.png)
 
 刚开始学习python写的小自动化工具，希望大佬不喜勿喷。谢谢！
